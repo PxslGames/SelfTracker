@@ -1,6 +1,6 @@
 # Pxsl's Self Tracker - Photon Room Info Discord Bot
 
-**Pxsl's Self Tracker** is a simple BepInEx plugin that tracks the current Photon room info in real-time and sends updates to a Discord webhook. It also notifies when the game is started.
+**Pxsl's Self Tracker** is a simple BepInEx plugin that tracks the current Photon room info in real-time and sends updates to a Discord webhook. It also notifies when the game is started. This was originally meant to be for gorilla tag only, but I have realised that this will work with ANY GAME that uses Photon and Unity!
 
 ## Features
 - Sends a notification to Discord when the game starts.
