@@ -50,7 +50,6 @@ The plugin provides real-time updates in your Discord channel with the following
 - **Photon Room Info**: When you join a Photon room, a message is sent with the room code, the number of players in the room, and the list of player names.
 
 Example message sent to your Discord webhook:
-**Tracker Update** Room Code: Room123 Player Count: 5 Players: Player1, Player2, Player3, Player4, Player5
 
 ![image](https://github.com/user-attachments/assets/d96ef499-cc42-4bee-9277-ec510fcc9921)
 
